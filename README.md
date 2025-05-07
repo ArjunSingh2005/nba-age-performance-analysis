@@ -5,7 +5,7 @@ This repository contains statistical analyses of NBA player performance using da
 ## 📁 Project Contents
 
 - `ExploratoryAnalysis.pdf`: Full write-up of a statistical study on age and NBA performance using t-tests, linear regression, and logistic regression.
-- `NbaAnalysis.pdf`: R-based analysis exploring fantasy point prediction using multiple linear regression.
+- `R Code NBA Age Analysis.pdf`: R-based analysis exploring fantasy point prediction using multiple linear regression.
 - `nba2024.csv`: The dataset used, originally sourced from [Basketball Reference](https://www.basketball-reference.com/).
 
 ## 📌 Key Analyses
